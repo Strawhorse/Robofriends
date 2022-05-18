@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Strawhorse/Robofriends/static/css/main.28d3404b.css",
+    "main.js": "/Strawhorse/Robofriends/static/js/main.5e4abbd5.js",
+    "static/js/787.32032a02.chunk.js": "/Strawhorse/Robofriends/static/js/787.32032a02.chunk.js",
+    "index.html": "/Strawhorse/Robofriends/index.html",
+    "main.28d3404b.css.map": "/Strawhorse/Robofriends/static/css/main.28d3404b.css.map",
+    "main.5e4abbd5.js.map": "/Strawhorse/Robofriends/static/js/main.5e4abbd5.js.map",
+    "787.32032a02.chunk.js.map": "/Strawhorse/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d3404b.css",
+    "static/js/main.5e4abbd5.js"
+  ]
+}
